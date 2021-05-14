@@ -1,0 +1,4 @@
+INFORMACJE O GRZE
+-----------------
+Gra zostala stworzona w celu  nauki języka python i uczenia się go poprzez pisanie aplikacji.
+Tworca i jedynym wlascicielem gry jest Tomasz Wardak.
